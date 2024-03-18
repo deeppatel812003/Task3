@@ -1,0 +1,26 @@
+label {
+    color: rgb(8, 5, 194);
+}
+
+.col-lg-6 {
+    background-color: rgba(218, 202, 241, 0.644);
+    box-shadow: 0 4px 8px 0 rgba(102, 56, 158, 0.644);
+    backdrop-filter: blur(2px);
+}
+body {
+    background-image: url('b1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+span{
+    color: red;
+    font-weight: bold;
+}
+
+/* @media only screen and (max-width:575px) 
+{
+    .container.my-sm-5 {
+        padding: 15px 25px;
+    }   
+} */
